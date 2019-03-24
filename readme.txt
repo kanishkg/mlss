@@ -18,7 +18,7 @@ Label	Description
 8	Bag
 9	Ankle boot
 
-Create a neural network using instructions given in the skeleton code. You are free to play around with the hyperparameters (batch_size, learning rate etc.)once you have a basic version running. Try using different optimizers and regularizations like dropout.
+Create a neural network using instructions given in the skeleton code. You are free to play around with the hyperparameters (batch_size, learning rate etc.)once you have a basic version running. Try using different optimizers and regularizators like dropout.
 
 The skeleton code is provided in pytorch_nn_skeleton.py. Try to understand how it is supposed to work, and code up the parts that have been left for you to fill . Record your observations (training / test accuracy / training loss) for changes in hyperparameters, regularization methods that you use or optimizers. Also give reasons for any pattern that you observe among the observations.
 
